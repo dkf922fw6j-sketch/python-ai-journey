@@ -1,0 +1,7 @@
+Ali: GEÇTİ
+Ayse: GEÇTİ
+Mehmet: KALDI
+Zeynep: GEÇTİ
+Can: KALDI
+
+Ortalama: 68
