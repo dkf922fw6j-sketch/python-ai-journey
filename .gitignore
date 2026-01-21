@@ -1,0 +1,9 @@
+# Mac sistem dosyasi
+.DS_Store
+
+# Python derleme dosyalari (bunlar da kalabalik yapar)
+__pycache__/
+*.pyc
+
+# (Opsiyonel) Veri dosyalarini gizlemek istersen bunlari da ekle:
+*.txt
